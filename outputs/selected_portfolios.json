@@ -1,0 +1,79 @@
+{
+  "max_energy": {
+    "sites": 6,
+    "capacity_mw": 233.0,
+    "lifetime_gwh": 10091.0,
+    "capex_meur": 169.5,
+    "eur_per_mwh": 16.8,
+    "risk": 0.1331,
+    "feasible": true,
+    "violation": 0.0,
+    "max_substation_share": 0.232,
+    "site_ids": [
+      "S037",
+      "S094",
+      "S098",
+      "S117",
+      "S289",
+      "S363"
+    ]
+  },
+  "min_cost": {
+    "sites": 5,
+    "capacity_mw": 207.0,
+    "lifetime_gwh": 8715.7,
+    "capex_meur": 146.2,
+    "eur_per_mwh": 16.77,
+    "risk": 0.1329,
+    "feasible": true,
+    "violation": 0.0,
+    "max_substation_share": 0.227,
+    "site_ids": [
+      "S033",
+      "S037",
+      "S292",
+      "S344",
+      "S460"
+    ]
+  },
+  "min_risk": {
+    "sites": 8,
+    "capacity_mw": 232.0,
+    "lifetime_gwh": 9618.3,
+    "capex_meur": 182.5,
+    "eur_per_mwh": 18.98,
+    "risk": 0.0845,
+    "feasible": true,
+    "violation": 0.0,
+    "max_substation_share": 0.168,
+    "site_ids": [
+      "S042",
+      "S092",
+      "S094",
+      "S131",
+      "S183",
+      "S242",
+      "S289",
+      "S363"
+    ]
+  },
+  "balanced": {
+    "sites": 6,
+    "capacity_mw": 226.0,
+    "lifetime_gwh": 9568.2,
+    "capex_meur": 159.5,
+    "eur_per_mwh": 16.67,
+    "risk": 0.113,
+    "feasible": true,
+    "violation": 0.0,
+    "max_substation_share": 0.208,
+    "site_ids": [
+      "S037",
+      "S102",
+      "S289",
+      "S292",
+      "S321",
+      "S470"
+    ]
+  }
+}
